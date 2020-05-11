@@ -14,4 +14,7 @@ Hamburg is the second largest city in Germany.  Before the 1871 unification of G
 
 Famous for its Oktoberfest, Munich is the third largest city in Germany.  It is also the home of BMW.
 
+## Frankfurt
+
+Frankfurt is the economic capital of Germany.
 
