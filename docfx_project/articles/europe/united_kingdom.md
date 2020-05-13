@@ -1,6 +1,6 @@
 # United Kingdom
 
-The United Kingdom consists of England, Scotland, Wales, and Northern Ireland.  The country recently voted to leave the European Union.
+The United Kingdom consists of England, Scotland, Wales, and Northern Ireland.  The country recently voted to leave the European Union.  Queen Elizabeth II is the head of state.
 
 ## London
 
