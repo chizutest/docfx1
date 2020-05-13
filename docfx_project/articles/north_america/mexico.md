@@ -10,3 +10,7 @@ Mexico City is the capital and largest city of Mexico and the most populous city
 
 Guadalajara (/ˌɡwɑːdələˈhɑːrə/), is a metropolis in western Mexico and the capital of the state of Jalisco. The city has a population of 1,460,148, while the Guadalajara metropolitan area has a population of 5,002,466, making it the second-largest metropolitan area in the country. Guadalajara has the second highest population density in Mexico, with over 10,361 people per square kilometre. Guadalajara is an international center of business, finance, arts, and culture, as well as the economic center of the Bajío region, one of the most productive and developed regions in Latin America.
 
+## Puerto Vallarta
+
+Ovidiu loves Puerto Vallarta.
+
