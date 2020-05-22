@@ -4,7 +4,7 @@ Mexico is located just south of the United States and shares a long border, some
 
 ## Mexico City
 
-Mexico City is the capital and largest city of Mexico and the most populous city in North America. Mexico City is one of the most important cultural and financial centres in the world. It is located in the Valley of Mexico (Valle de México), a large valley in the high plateaus in the center of Mexico, at an altitude of 2,240 meters (7,350 ft). The city has 16 subdivisions, formerly known as boroughs. 
+Mexico City is the capital and largest city of Mexico and the most populous city in North America. Mexico City is one of the most important cultural and financial centres in the world. It is located in the Valley of Mexico (Valle de México), a large valley in the high plateaus in the center of Mexico, at an altitude of 2,240 meters (7,350 ft). The city has 16 subdivisions, formerly known as boroughs. The population of the urban area is around 21 million.
 
 ## Guadalajara
 
