@@ -19,6 +19,10 @@ namespace HelloDocFx
             Value = value;
         }
 
+        /// <summary>
+        /// My convert function
+        /// </summary>
+        /// <returns></returns>
         public double ConvertToDouble()
         {
             return Value;

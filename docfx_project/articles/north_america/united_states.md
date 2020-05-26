@@ -1,6 +1,6 @@
 # United States
 
-The United States of America was born in 1776.  It has the largest economy in the world.
+The United States of America was founded in 1776.  It has the largest economy in the world.
 
 ## San Francisco
 
