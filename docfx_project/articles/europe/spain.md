@@ -1,6 +1,6 @@
 # Spain
 
-Spain is in western Europe on the Iberian peninsula.
+Spain is in western Europe on the Iberian peninsula.  Its neighbor to the west is Portugal.
 
 ## Madrid
 
