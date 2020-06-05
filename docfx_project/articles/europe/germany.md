@@ -1,6 +1,6 @@
 # Germany
 
-The Federal Republic of Germany has the highest GDP in Europe and fifth highest in the world.  Its population is about 83 million.
+The Federal Republic of Germany has the highest GDP in Europe and fifth highest in the world.  Its population is about 83 million.  The Chancellor is Angela Merkel.
 
 ## Berlin
 
