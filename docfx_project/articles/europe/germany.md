@@ -8,7 +8,7 @@ The capital of Germany.  The largest city in Germany was divided into East Berli
 
 ## Hamburg
 
-Hamburg is the second largest city in Germany.  Before the 1871 unification of Germany, it was a fully soverign city state.
+Hamburg is the second largest city in Germany.  Before the 1871 unification of Germany, it was a fully sovereign city-state.
 
 ## Munich
 
