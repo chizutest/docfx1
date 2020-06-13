@@ -4,7 +4,7 @@ Spain is in western Europe on the Iberian peninsula.  Its neighbor to the west i
 
 ## Madrid
 
-Madrid is the capital and most populous city of Spain.
+Madrid is the capital and most populous city of Spain.  The city has almost 3.3 million inhabitants.
 
 ## Barcelona
 
